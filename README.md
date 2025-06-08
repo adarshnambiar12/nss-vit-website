@@ -1,4 +1,4 @@
-# 🌐 NSS Website — [nssvit.netlify.app](https://nssvit.netlify.app)
+# 🌐 NSS Website
 
 Welcome to the official website of the **National Service Scheme (NSS)** at VIT. This platform is dedicated to fostering a sense of **social and civic responsibility** among students while serving as a central hub for all NSS-related announcements, events, and updates.
 
